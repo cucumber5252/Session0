@@ -1,0 +1,36 @@
+
+#introduce{ width: 80%;
+    height: 90%;
+    display: block;
+    margin: auto;
+}
+
+table{
+    width: 400px;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFFFF;
+}
+
+th{
+    background-color: #008275;
+    color: #FFFFFF;
+    align-items: center;
+}
+
+td{
+    background-color: #FFFFFF;
+    padding-left: 8px;;
+}
+
+.first_line{
+    width: 200px;
+}
+
+#namuwiki{
+    width: 400px;
+    margin: auto;
+}
